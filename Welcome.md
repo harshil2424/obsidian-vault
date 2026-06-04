@@ -1,0 +1,1 @@
+This file is deprecated. See [[README - Second Brain]] and [[Dashboard]] instead.

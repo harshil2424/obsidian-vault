@@ -1,0 +1,8 @@
+[[Tools]]
+[[Inbox]]
+[[Projects]] 
+[[Areas]]
+[[Problems & Fixes]]
+[[Ideas]]
+[[Archive]]
+[[Templates]]
